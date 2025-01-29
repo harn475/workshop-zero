@@ -18,9 +18,6 @@ I forgot to forward-slash the work but I did screenshot it
 
 I used chatGPT a couple of times for the math of the triangle, before it bounced back, needing to use the values of the outside of the canvas. 
 
-Certainly! Here's a reference list along with a declaration of your help sources:
-
----
 
 **Reference List:**
 
